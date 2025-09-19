@@ -57,9 +57,5 @@ This dashboard empowers stakeholders to explore product data dynamically.
 
 ## 🔗 Let’s Connect  
 Feel free to explore the dashboard or reach out to discuss how data can shape smarter product strategies and customer-centric innovation.  
-**LinkedIn [www.linkedin.com/in/shruti-data] | Portfolio Site  [https://shrutimishra-data-analys-96s6pfc.gamma.site/] | GitHub** [
-
----
-
-Let me know if you want a thumbnail, tagline, or matching case study summary for your portfolio site. We can make this one pop just like your Music Trends project!
+**LinkedIn [www.linkedin.com/in/shruti-data] | Portfolio Site  [https://shrutimishra-data-analys-96s6pfc.gamma.site/] | GitHub** [https://github.com/Shruti00001]
 
