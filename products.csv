@@ -1,0 +1,201 @@
+product_id,product_name,brand,category,price,rating,reviews,platform,sentiment_score
+1,NovaTech Smartwatch,NovaTech,Electronics,2999.0,4.5,1200,Amazon,0.72
+2,GlowSkin Serum,GlowSkin,Skincare,799.0,4.2,850,Nykaa,0.6
+3,EcoNest Air Purifier,EcoNest,Home Essentials,4999.0,4.7,2300,Flipkart,0.78
+4,PulseGear Headphones,PulseGear,Electronics,1599.0,4.0,950,Amazon,0.5
+5,FreshAura Moisturizer,FreshAura,Skincare,599.0,4.3,670,Myntra,0.65
+6,CozyHaus Organizer,CozyHaus,Home Essentials,2237.0,4.3,103,Flipkart,0.36
+7,NestWare Air Purifier,NestWare,Home Essentials,926.0,4.5,1211,Flipkart,0.56
+8,PureLeaf Moisturizer,PureLeaf,Skincare,737.0,3.9,1326,Nykaa,0.43
+9,NovaTech Power Bank,NovaTech,Electronics,1503.0,3.7,438,Amazon,0.47
+10,ZenSound Earbuds,ZenSound,Electronics,5313.0,3.2,379,Flipkart,0.19
+11,VoltWave Smartwatch,VoltWave,Electronics,1031.0,3.7,1080,Flipkart,0.48
+12,GlowSkin Moisturizer,GlowSkin,Skincare,417.0,4.3,668,Nykaa,0.54
+13,ArcByte Smartwatch,ArcByte,Electronics,1698.0,3.9,1062,Flipkart,0.27
+14,PureLeaf Sunscreen,PureLeaf,Skincare,517.0,4.7,276,Myntra,0.72
+15,NestWare Kettle,NestWare,Home Essentials,2044.0,4.2,1229,Amazon,0.47
+16,PulseGear Speaker,PulseGear,Electronics,811.0,3.6,263,Amazon,0.44
+17,GlowSkin Sunscreen,GlowSkin,Skincare,657.0,4.4,455,Amazon,0.6
+18,NovaTech Smartwatch,NovaTech,Electronics,847.0,4.1,394,Amazon,0.49
+19,PureLeaf Sunscreen,PureLeaf,Skincare,570.0,4.1,560,Amazon,0.27
+20,PulseGear Power Bank,PulseGear,Electronics,2038.0,3.5,428,Flipkart,0.51
+21,DermaLab Sunscreen,DermaLab,Skincare,538.0,3.9,443,Flipkart,0.53
+22,ArcByte Speaker,ArcByte,Electronics,1180.0,3.4,642,Amazon,0.28
+23,GlowSkin Sunscreen,GlowSkin,Skincare,528.0,3.8,707,Myntra,0.45
+24,ZenSound Smartwatch,ZenSound,Electronics,3659.0,3.1,338,Flipkart,0.18
+25,ZenSound Speaker,ZenSound,Electronics,1448.0,3.4,241,Amazon,0.37
+26,DermaLab Sunscreen,DermaLab,Skincare,756.0,3.9,88,Myntra,0.46
+27,BloomVeda Sunscreen,BloomVeda,Skincare,557.0,4.6,693,Myntra,0.56
+28,ZenSound Earbuds,ZenSound,Electronics,1588.0,4.5,676,Myntra,0.67
+29,PulseGear Smartwatch,PulseGear,Electronics,1098.0,4.7,287,Amazon,0.7
+30,CozyHaus Lamp,CozyHaus,Home Essentials,1358.0,4.1,333,Amazon,0.53
+31,BloomVeda Toner,BloomVeda,Skincare,662.0,4.8,695,Myntra,0.6
+32,NovaTech Earbuds,NovaTech,Electronics,1305.0,4.3,885,Amazon,0.7
+33,AuraGlow Lamp,AuraGlow,Home Essentials,3670.0,4.4,512,Flipkart,0.48
+34,EcoNest Air Purifier,EcoNest,Home Essentials,905.0,4.4,421,Amazon,0.54
+35,NovaTech Headphones,NovaTech,Electronics,1720.0,4.1,95,Flipkart,0.47
+36,PureLeaf Serum,PureLeaf,Skincare,501.0,4.5,182,Amazon,0.57
+37,EcoNest Lamp,EcoNest,Home Essentials,1236.0,4.5,976,Amazon,0.71
+38,NestWare Air Purifier,NestWare,Home Essentials,1692.0,4.1,226,Amazon,0.49
+39,EcoNest Organizer,EcoNest,Home Essentials,926.0,4.1,161,Amazon,0.4
+40,PulseGear Power Bank,PulseGear,Electronics,1142.0,3.2,519,Myntra,0.17
+41,FreshAura Sunscreen,FreshAura,Skincare,372.0,4.2,123,Flipkart,0.32
+42,ArcByte Earbuds,ArcByte,Electronics,4493.0,4.4,209,Amazon,0.5
+43,HomeCraft Lamp,HomeCraft,Home Essentials,1293.0,4.4,890,Amazon,0.49
+44,VoltWave Smartwatch,VoltWave,Electronics,1413.0,4.0,365,Flipkart,0.51
+45,ArcByte Headphones,ArcByte,Electronics,1685.0,3.8,314,Amazon,0.47
+46,PulseGear Headphones,PulseGear,Electronics,3887.0,3.7,302,Flipkart,0.26
+47,VoltWave Power Bank,VoltWave,Electronics,627.0,4.3,905,Flipkart,0.39
+48,CozyHaus Kettle,CozyHaus,Home Essentials,1261.0,4.1,479,Flipkart,0.49
+49,DermaLab Moisturizer,DermaLab,Skincare,663.0,4.3,430,Myntra,0.31
+50,PulseGear Headphones,PulseGear,Electronics,2631.0,3.6,569,Amazon,0.25
+51,CozyHaus Diffuser,CozyHaus,Home Essentials,3838.0,4.1,893,Flipkart,0.7
+52,NestWare Organizer,NestWare,Home Essentials,1535.0,3.8,1466,Flipkart,0.28
+53,AuraGlow Air Purifier,AuraGlow,Home Essentials,2819.0,4.1,3098,Myntra,0.58
+54,ArcByte Power Bank,ArcByte,Electronics,1230.0,4.4,1068,Myntra,0.47
+55,ZenSound Speaker,ZenSound,Electronics,1131.0,4.0,1702,Flipkart,0.54
+56,DermaLab Face Wash,DermaLab,Skincare,756.0,4.8,93,Amazon,0.54
+57,ZenSound Smartwatch,ZenSound,Electronics,2003.0,4.1,360,Amazon,0.58
+58,AuraGlow Kettle,AuraGlow,Home Essentials,1718.0,3.7,527,Amazon,0.39
+59,NestWare Organizer,NestWare,Home Essentials,1382.0,4.6,308,Flipkart,0.48
+60,GlowSkin Moisturizer,GlowSkin,Skincare,1250.0,4.5,1283,Nykaa,0.63
+61,GlowSkin Serum,GlowSkin,Skincare,1454.0,4.0,663,Nykaa,0.63
+62,ArcByte Speaker,ArcByte,Electronics,1057.0,4.1,964,Amazon,0.51
+63,EcoNest Diffuser,EcoNest,Home Essentials,1142.0,4.3,1132,Amazon,0.53
+64,AuraGlow Air Purifier,AuraGlow,Home Essentials,1005.0,4.1,718,Myntra,0.58
+65,BloomVeda Serum,BloomVeda,Skincare,564.0,4.5,100,Flipkart,0.4
+66,HomeCraft Air Purifier,HomeCraft,Home Essentials,2235.0,3.9,719,Flipkart,0.56
+67,VoltWave Headphones,VoltWave,Electronics,3444.0,3.6,283,Flipkart,0.31
+68,NovaTech Headphones,NovaTech,Electronics,2545.0,4.3,173,Flipkart,0.57
+69,PulseGear Power Bank,PulseGear,Electronics,598.0,4.3,349,Nykaa,0.46
+70,PureLeaf Face Wash,PureLeaf,Skincare,542.0,4.3,833,Myntra,0.68
+71,PureLeaf Face Wash,PureLeaf,Skincare,502.0,4.6,849,Myntra,0.56
+72,GlowSkin Serum,GlowSkin,Skincare,625.0,4.3,1585,Nykaa,0.41
+73,BloomVeda Sunscreen,BloomVeda,Skincare,381.0,3.6,93,Amazon,0.25
+74,PureLeaf Sunscreen,PureLeaf,Skincare,1106.0,3.9,822,Nykaa,0.38
+75,DermaLab Moisturizer,DermaLab,Skincare,499.0,4.6,215,Myntra,0.58
+76,BloomVeda Face Wash,BloomVeda,Skincare,633.0,4.4,571,Nykaa,0.52
+77,VoltWave Power Bank,VoltWave,Electronics,2359.0,4.1,837,Amazon,0.45
+78,ZenSound Headphones,ZenSound,Electronics,597.0,3.9,100,Amazon,0.26
+79,PulseGear Earbuds,PulseGear,Electronics,716.0,3.0,369,Flipkart,0.55
+80,ZenSound Earbuds,ZenSound,Electronics,693.0,3.9,658,Amazon,0.43
+81,PureLeaf Serum,PureLeaf,Skincare,412.0,4.5,2607,Nykaa,0.45
+82,CozyHaus Air Purifier,CozyHaus,Home Essentials,3204.0,3.7,2229,Amazon,0.41
+83,BloomVeda Serum,BloomVeda,Skincare,359.0,4.0,904,Flipkart,0.28
+84,BloomVeda Sunscreen,BloomVeda,Skincare,161.0,3.9,131,Nykaa,0.35
+85,PureLeaf Face Wash,PureLeaf,Skincare,551.0,4.3,242,Myntra,0.6
+86,HomeCraft Organizer,HomeCraft,Home Essentials,1742.0,4.8,556,Flipkart,0.57
+87,HomeCraft Lamp,HomeCraft,Home Essentials,908.0,4.1,813,Amazon,0.49
+88,PulseGear Smartwatch,PulseGear,Electronics,1498.0,3.6,985,Flipkart,0.41
+89,VoltWave Headphones,VoltWave,Electronics,997.0,4.0,162,Flipkart,0.62
+90,CozyHaus Diffuser,CozyHaus,Home Essentials,393.0,3.8,462,Amazon,0.3
+91,BloomVeda Sunscreen,BloomVeda,Skincare,380.0,4.3,2565,Flipkart,0.37
+92,BloomVeda Face Wash,BloomVeda,Skincare,477.0,3.6,190,Myntra,0.33
+93,AuraGlow Organizer,AuraGlow,Home Essentials,558.0,4.4,357,Flipkart,0.69
+94,HomeCraft Diffuser,HomeCraft,Home Essentials,2252.0,4.1,132,Amazon,0.55
+95,DermaLab Face Wash,DermaLab,Skincare,769.0,3.9,189,Amazon,0.53
+96,NovaTech Earbuds,NovaTech,Electronics,1284.0,3.9,766,Amazon,0.37
+97,DermaLab Toner,DermaLab,Skincare,1273.0,3.8,68,Nykaa,0.62
+98,ZenSound Speaker,ZenSound,Electronics,1379.0,3.8,507,Amazon,0.28
+99,VoltWave Earbuds,VoltWave,Electronics,2403.0,4.5,702,Amazon,0.51
+100,GlowSkin Toner,GlowSkin,Skincare,299.0,3.6,697,Myntra,0.33
+101,NovaTech Headphones,NovaTech,Electronics,892.0,4.2,802,Flipkart,0.39
+102,VoltWave Speaker,VoltWave,Electronics,645.0,4.0,267,Myntra,0.42
+103,VoltWave Headphones,VoltWave,Electronics,2133.0,3.6,59,Flipkart,0.47
+104,ArcByte Headphones,ArcByte,Electronics,2591.0,3.8,5137,Flipkart,0.48
+105,CozyHaus Organizer,CozyHaus,Home Essentials,2088.0,4.4,376,Amazon,0.49
+106,FreshAura Serum,FreshAura,Skincare,468.0,4.1,798,Amazon,0.44
+107,CozyHaus Air Purifier,CozyHaus,Home Essentials,963.0,3.3,252,Flipkart,0.22
+108,NovaTech Smartwatch,NovaTech,Electronics,928.0,3.9,1547,Amazon,0.33
+109,VoltWave Headphones,VoltWave,Electronics,2336.0,3.7,1131,Amazon,0.28
+110,FreshAura Sunscreen,FreshAura,Skincare,255.0,4.4,438,Flipkart,0.43
+111,VoltWave Headphones,VoltWave,Electronics,718.0,3.7,2241,Myntra,0.43
+112,VoltWave Speaker,VoltWave,Electronics,2093.0,3.8,986,Myntra,0.4
+113,ArcByte Smartwatch,ArcByte,Electronics,2550.0,3.2,79,Flipkart,0.41
+114,DermaLab Toner,DermaLab,Skincare,636.0,4.5,3034,Nykaa,0.63
+115,HomeCraft Lamp,HomeCraft,Home Essentials,1256.0,3.8,3804,Amazon,0.63
+116,EcoNest Lamp,EcoNest,Home Essentials,2104.0,4.1,1853,Amazon,0.56
+117,ArcByte Smartwatch,ArcByte,Electronics,613.0,4.0,364,Flipkart,0.31
+118,BloomVeda Moisturizer,BloomVeda,Skincare,693.0,4.7,608,Nykaa,0.62
+119,ZenSound Speaker,ZenSound,Electronics,799.0,4.0,560,Flipkart,0.67
+120,VoltWave Power Bank,VoltWave,Electronics,1676.0,3.8,227,Amazon,0.4
+121,GlowSkin Moisturizer,GlowSkin,Skincare,746.0,3.6,538,Flipkart,0.49
+122,AuraGlow Lamp,AuraGlow,Home Essentials,930.0,3.8,820,Flipkart,0.46
+123,FreshAura Face Wash,FreshAura,Skincare,304.0,4.1,731,Nykaa,0.45
+124,PureLeaf Sunscreen,PureLeaf,Skincare,426.0,4.3,419,Amazon,0.55
+125,HomeCraft Air Purifier,HomeCraft,Home Essentials,3264.0,3.4,89,Flipkart,0.12
+126,VoltWave Speaker,VoltWave,Electronics,3190.0,3.0,859,Amazon,0.45
+127,CozyHaus Diffuser,CozyHaus,Home Essentials,905.0,4.1,2174,Amazon,0.69
+128,AuraGlow Lamp,AuraGlow,Home Essentials,3884.0,3.7,677,Flipkart,0.44
+129,FreshAura Sunscreen,FreshAura,Skincare,1026.0,4.1,387,Myntra,0.58
+130,ZenSound Smartwatch,ZenSound,Electronics,1969.0,4.0,105,Amazon,0.53
+131,VoltWave Earbuds,VoltWave,Electronics,1713.0,3.6,1271,Flipkart,0.22
+132,PureLeaf Moisturizer,PureLeaf,Skincare,702.0,3.8,1154,Myntra,0.44
+133,PulseGear Headphones,PulseGear,Electronics,1449.0,3.8,586,Nykaa,0.46
+134,HomeCraft Diffuser,HomeCraft,Home Essentials,811.0,4.3,1845,Amazon,0.46
+135,CozyHaus Kettle,CozyHaus,Home Essentials,1089.0,4.0,623,Flipkart,0.42
+136,PureLeaf Face Wash,PureLeaf,Skincare,783.0,3.7,854,Nykaa,0.4
+137,ZenSound Power Bank,ZenSound,Electronics,5080.0,3.3,190,Flipkart,0.32
+138,ZenSound Speaker,ZenSound,Electronics,2221.0,3.5,1463,Myntra,0.51
+139,VoltWave Speaker,VoltWave,Electronics,3463.0,3.0,452,Myntra,0.16
+140,HomeCraft Organizer,HomeCraft,Home Essentials,4168.0,3.6,873,Amazon,0.36
+141,NovaTech Power Bank,NovaTech,Electronics,3105.0,4.2,795,Amazon,0.57
+142,ArcByte Smartwatch,ArcByte,Electronics,2634.0,3.8,1336,Flipkart,0.47
+143,PureLeaf Sunscreen,PureLeaf,Skincare,724.0,3.2,849,Myntra,0.0
+144,ArcByte Power Bank,ArcByte,Electronics,863.0,3.7,2066,Flipkart,0.35
+145,CozyHaus Kettle,CozyHaus,Home Essentials,3602.0,3.8,244,Amazon,0.41
+146,HomeCraft Lamp,HomeCraft,Home Essentials,984.0,4.5,620,Flipkart,0.52
+147,NovaTech Power Bank,NovaTech,Electronics,944.0,3.6,1626,Flipkart,0.33
+148,DermaLab Toner,DermaLab,Skincare,259.0,4.3,1166,Amazon,0.56
+149,FreshAura Toner,FreshAura,Skincare,510.0,4.0,1317,Myntra,0.64
+150,FreshAura Sunscreen,FreshAura,Skincare,731.0,4.5,671,Myntra,0.57
+151,PureLeaf Moisturizer,PureLeaf,Skincare,479.0,4.4,603,Nykaa,0.59
+152,DermaLab Face Wash,DermaLab,Skincare,741.0,3.8,2204,Nykaa,0.35
+153,ArcByte Earbuds,ArcByte,Electronics,1684.0,3.8,444,Flipkart,0.48
+154,CozyHaus Lamp,CozyHaus,Home Essentials,2077.0,3.3,433,Amazon,0.05
+155,GlowSkin Moisturizer,GlowSkin,Skincare,1157.0,4.3,383,Myntra,0.57
+156,AuraGlow Kettle,AuraGlow,Home Essentials,1089.0,4.4,1107,Flipkart,0.43
+157,PureLeaf Face Wash,PureLeaf,Skincare,396.0,3.9,370,Nykaa,0.5
+158,EcoNest Kettle,EcoNest,Home Essentials,1323.0,4.1,5435,Amazon,0.32
+159,DermaLab Moisturizer,DermaLab,Skincare,642.0,4.4,524,Nykaa,0.71
+160,NestWare Air Purifier,NestWare,Home Essentials,1432.0,3.7,906,Amazon,0.58
+161,CozyHaus Air Purifier,CozyHaus,Home Essentials,1305.0,3.5,264,Amazon,0.4
+162,BloomVeda Toner,BloomVeda,Skincare,1325.0,4.3,525,Flipkart,0.57
+163,HomeCraft Kettle,HomeCraft,Home Essentials,686.0,3.7,1083,Flipkart,0.36
+164,FreshAura Face Wash,FreshAura,Skincare,665.0,4.0,1814,Nykaa,0.64
+165,HomeCraft Lamp,HomeCraft,Home Essentials,2756.0,4.1,1031,Amazon,0.54
+166,CozyHaus Diffuser,CozyHaus,Home Essentials,956.0,4.6,1282,Flipkart,0.76
+167,FreshAura Toner,FreshAura,Skincare,637.0,4.2,1669,Myntra,0.46
+168,VoltWave Smartwatch,VoltWave,Electronics,1639.0,3.6,486,Flipkart,0.36
+169,HomeCraft Air Purifier,HomeCraft,Home Essentials,1294.0,3.4,269,Flipkart,0.3
+170,VoltWave Headphones,VoltWave,Electronics,3323.0,3.6,622,Flipkart,0.37
+171,FreshAura Moisturizer,FreshAura,Skincare,200.0,4.0,609,Amazon,0.54
+172,NovaTech Smartwatch,NovaTech,Electronics,2883.0,3.7,1431,Flipkart,0.44
+173,BloomVeda Moisturizer,BloomVeda,Skincare,602.0,4.7,66,Flipkart,0.43
+174,BloomVeda Moisturizer,BloomVeda,Skincare,263.0,3.9,277,Nykaa,0.73
+175,VoltWave Smartwatch,VoltWave,Electronics,870.0,3.3,541,Flipkart,0.2
+176,HomeCraft Organizer,HomeCraft,Home Essentials,1606.0,4.2,876,Flipkart,0.34
+177,BloomVeda Serum,BloomVeda,Skincare,598.0,3.7,452,Amazon,0.45
+178,EcoNest Organizer,EcoNest,Home Essentials,2576.0,3.8,1182,Flipkart,0.66
+179,PulseGear Earbuds,PulseGear,Electronics,3702.0,3.2,183,Amazon,0.24
+180,ZenSound Power Bank,ZenSound,Electronics,1129.0,3.7,272,Amazon,0.67
+181,PureLeaf Moisturizer,PureLeaf,Skincare,543.0,4.0,55,Amazon,0.28
+182,PureLeaf Serum,PureLeaf,Skincare,1247.0,4.2,1922,Nykaa,0.55
+183,PulseGear Speaker,PulseGear,Electronics,2443.0,3.5,995,Amazon,0.43
+184,HomeCraft Organizer,HomeCraft,Home Essentials,1552.0,4.2,294,Amazon,0.5
+185,ArcByte Smartwatch,ArcByte,Electronics,3302.0,3.3,2738,Amazon,0.25
+186,FreshAura Toner,FreshAura,Skincare,223.0,4.1,147,Myntra,0.6
+187,FreshAura Face Wash,FreshAura,Skincare,404.0,4.0,1208,Amazon,0.45
+188,VoltWave Earbuds,VoltWave,Electronics,1726.0,4.1,402,Amazon,0.48
+189,AuraGlow Diffuser,AuraGlow,Home Essentials,2117.0,4.2,2400,Amazon,0.67
+190,AuraGlow Organizer,AuraGlow,Home Essentials,1499.0,3.9,2586,Amazon,0.48
+191,GlowSkin Toner,GlowSkin,Skincare,199.0,4.5,635,Myntra,0.59
+192,AuraGlow Lamp,AuraGlow,Home Essentials,2329.0,4.0,405,Flipkart,0.41
+193,FreshAura Toner,FreshAura,Skincare,253.0,4.0,212,Nykaa,0.34
+194,NovaTech Smartwatch,NovaTech,Electronics,2294.0,4.0,480,Flipkart,0.17
+195,BloomVeda Moisturizer,BloomVeda,Skincare,497.0,3.8,1241,Flipkart,0.34
+196,ZenSound Power Bank,ZenSound,Electronics,1463.0,4.0,158,Amazon,0.61
+197,GlowSkin Moisturizer,GlowSkin,Skincare,255.0,4.3,1437,Flipkart,0.55
+198,VoltWave Smartwatch,VoltWave,Electronics,582.0,3.6,1324,Flipkart,0.42
+199,HomeCraft Air Purifier,HomeCraft,Home Essentials,2126.0,4.9,496,Amazon,0.55
+200,PulseGear Speaker,PulseGear,Electronics,927.0,4.8,807,Amazon,0.53

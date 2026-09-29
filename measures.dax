@@ -1,0 +1,9 @@
+// Paste into Power BI (Modeling > New measure). Table name assumed: products
+Avg Rating      = AVERAGE(products[rating])
+Total Reviews   = SUM(products[reviews])
+Avg Price       = AVERAGE(products[price])
+Review-weighted Rating =
+    DIVIDE(SUMX(products, products[rating] * products[reviews]), SUM(products[reviews]))
+Price vs Category Avg % =
+    VAR catAvg = CALCULATE(AVERAGE(products[price]), ALLEXCEPT(products, products[category]))
+    RETURN DIVIDE(AVERAGE(products[price]) - catAvg, catAvg)
